@@ -1,0 +1,6 @@
+{
+  "name": "Casa dos Transformadores Curitiba",
+  "description": "Venda de transformadores elétricos trifásicos, de comando e domésticos em Curitiba e região. Atendimento rápido e orçamentos pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
